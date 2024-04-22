@@ -1,2 +1,3 @@
-# Estruturas
- Biblioteca de Estrutura de Dados
+# Projeto de implementação de Lista Encadeada Simples em C.
+
+ Biblioteca de Lista Encadeada Simples

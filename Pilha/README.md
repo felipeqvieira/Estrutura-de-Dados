@@ -1,2 +1,3 @@
-# Estruturas
- Biblioteca de Estrutura de Dados
+# Projeto de implementação de Pilha em C.
+
+ Biblioteca de Pilha
